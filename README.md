@@ -84,9 +84,9 @@ A **ROC Curve** shows:
 
 ## How to Run
 ```bash
-git clone https://github.com/brendanros31/ML-Diabetes-Predictive-Analysis.git
+git clone https://github.com/brendanros31/ML-Census-Income-Prediction.git
 
-cd ML-Diabetes-Predictive-Analysis
+cd ML-Census-Income-Prediction
 
 pip install -r requirements.txt
 python main.ipynb
