@@ -89,7 +89,7 @@ git clone https://github.com/brendanros31/ML-Census-Income-Prediction.git
 cd ML-Census-Income-Prediction
 
 pip install -r requirements.txt
-python main.ipynb
+jupyter notebook main.ipynb
 ```
 
 ---
